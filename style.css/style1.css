@@ -1,0 +1,50 @@
+.third{
+    color: peru;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 600;
+}
+
+div{
+    color: brown;
+    background-color: seagreen ;
+}
+
+.fly{
+    color: aliceblue;
+    font-size: xx-large;
+    background-image: url(/images/fly.jpg);
+    background-size: cover;
+}
+
+.day{
+    font-size: xx-large;
+    background-color: blue;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px red;
+}
+
+button{
+    font-size: x-large;
+    padding: 5px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+.lorem1{
+    font-size: x-large;
+    border: 4px solid aqua;
+    border-radius: 5px;
+}
+
+.experimental{
+    display: inline-block;
+    border: 2px solid tomato;
+    border-radius: 6px;
+}
+
+.lorem2{
+    visibility: hidden;
+}
